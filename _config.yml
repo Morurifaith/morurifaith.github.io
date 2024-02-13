@@ -3,7 +3,7 @@ title: Faith Moruri
 subtitle: Data Scientist
 email: morurifaith@gmail.com
 description: Results-driven data scientist skilled in financial analytics and machine learning.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 29047

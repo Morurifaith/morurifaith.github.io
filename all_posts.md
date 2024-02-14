@@ -1,5 +1,5 @@
 ---
-layout: allposts
+layout: Resume
 title: CV
 landing-title: 'My CV'
 nav-menu: true
